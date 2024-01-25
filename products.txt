@@ -1,0 +1,8 @@
+Product ID: 12345
+Name: Product Name
+Price: $19.99
+In Stock: Yes
+Product ID: 1235
+Name: Product Name1
+Price: $19.992
+In Stock: NO
